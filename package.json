@@ -1,0 +1,9 @@
+{
+    "name": "turkish-cities-plate",
+    "version": "1.0.0",
+    "description": "Türk plakalarına veya şehirlerine göre plaka/şehir bilgisi veren API.",
+    "main": "index.js",
+    "author": "ayd1ndemirci",
+    "license": "MIT"
+  }
+  
